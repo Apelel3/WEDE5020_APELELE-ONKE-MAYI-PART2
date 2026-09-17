@@ -4,7 +4,7 @@
 
  
 
-**Module:**Web Development (WEDE5020) 
+**Module:** Web Development (WEDE5020) 
 **Lecturer:** Mzimasi Mbongwe 
 **Submission Date:** 18 August 2026 
 
