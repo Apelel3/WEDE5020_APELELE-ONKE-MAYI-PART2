@@ -23,7 +23,7 @@ All notable changes to the Apelele Hair Collection project will be documented in
 - Integrated header and footer components featuring:
   - Header logo branding.
   - Quick links for seamless navigation across website pages.
-  - Quick links for social media platforms.
+  - Quick links for the social media platforms.
 
 ---
 
