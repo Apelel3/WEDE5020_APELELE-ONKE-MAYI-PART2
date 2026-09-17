@@ -13,7 +13,7 @@
 Welcome to the **Apelele Hair Collection** project repository. This project is developed as part of the WEDE5020 web development coursework, focusing on semantic HTML5 page structure, custom CSS layouts, responsive design, and version control workflows using Git.
 
 ## Project Overview
-Apelele Hair Collection is a modern, responsive web application and e-commerce concept showcasing premium hair products, styling collections, and customer care resources. The application emphasizes accessibility, clean visual hierarchy, and seamless user experience across devices.
+Apelele Hair Collection is a modern, responsive web application and e-commerce concept showcasing premium hair products, styling collections, and customer care resources that all started as a side hustle for tuition fees. The application emphasizes accessibility, clean visual hierarchy, and seamless user experience across devices so customers can come to contact with the business through the website.
 
 ## Features
 - **Semantic HTML5 Architecture:** Clean, accessible markup ensuring optimal screen reader compatibility and SEO performance.
